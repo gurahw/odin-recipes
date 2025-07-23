@@ -11,3 +11,6 @@ html {
     font-size: 20px;
     margin: 0 400px;
 }
+li {
+    margin: 5px;
+}
